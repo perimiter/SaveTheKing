@@ -1,0 +1,11 @@
+the goal of the game: to move the king to the throne
+
+game charecters and abilities:
+king: movment only
+giant: smugle the dwarfs to their starting postion
+mage: extinguishes the fire
+theif: steal the keys and open gate
+dwarf: inturapts the movment of the charecters
+
+in order to win you need to move the king to the throne
+in the alloted time or moves.
